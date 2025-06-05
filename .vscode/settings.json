@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "parser.h": "c",
+        "engine.h": "c",
+        "http_server.h": "c",
+        "stdlib.h": "c"
+    }
+}
